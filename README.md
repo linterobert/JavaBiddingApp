@@ -16,9 +16,21 @@ Aplicatia isi propune crearea unui site de lictiatii online. Astfel, un user se 
 2. Prepare a document based on the 10 business requirements containing a description of 5 main
 features your project should contain for the MVP (minimum viable product) phase
    - sign-up: pentru crearea unui cont se va cere: un username, o adresa de email (trebuie sa fie unica), o parola (care va fi criptata pentru a oferi o securitate mai sporita). Pentru login si change password se folosesc operatii similare de criptare si decriptare pe baza parolei.
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/cee84fa2-c90c-45da-9dce-94e31b685ec0)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/f49dcd91-2719-4f00-a145-fe7c54d14db5)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/49b1648e-6c31-4f42-8eb4-45a35d6a3b4b)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/16c8a35e-86da-4a52-8554-5282d5d3b647)
+   - create product: pentru crearea unui produs trebuie sa furnizam id-ul user-ului care creaza produsul, si detaliile produsului. De asemenea se vor face diferite validari precum: pretul sa fie mai mare ca 0, user ul sa aibe rolul de seller sau endTime > dateTime.now(). La creare se poate primi si o lista de imagini aferente produsului
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/99f7b3bb-c2ff-49ef-a6bf-a05ca5bc2e8a)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/15417fbc-6bc0-4716-8fa0-3ee30d567e92)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/3cde8557-eac4-497b-87a3-372983e1f043)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/f22fa9c0-4e59-4a8c-a3b8-9abdfa1fb0fe)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/29821af5-e308-453f-9836-625783f15cd1)
+
+
+
+
+
 
 
 
