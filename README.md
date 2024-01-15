@@ -26,6 +26,7 @@ features your project should contain for the MVP (minimum viable product) phase
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/3cde8557-eac4-497b-87a3-372983e1f043)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/f22fa9c0-4e59-4a8c-a3b8-9abdfa1fb0fe)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/29821af5-e308-453f-9836-625783f15cd1)
+   - asociere card catre un cont: pentru a putea pe viitor sa 
 
 
 
