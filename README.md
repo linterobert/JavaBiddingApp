@@ -26,7 +26,24 @@ features your project should contain for the MVP (minimum viable product) phase
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/3cde8557-eac4-497b-87a3-372983e1f043)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/f22fa9c0-4e59-4a8c-a3b8-9abdfa1fb0fe)
      ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/29821af5-e308-453f-9836-625783f15cd1)
-   - asociere card catre un cont: pentru a putea pe viitor sa 
+   - asociere card catre un cont: pentru a putea pe viitor sa adauge bani in cont
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/41cbf15f-d04c-46e1-a1f0-deaecb178bed)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/43a46d20-7ecb-49c5-a332-bb2efd56c9ab)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/b8eec857-217b-4285-8901-93e82a77ccd3)
+   - adaugare fonduri in cont
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/8e4a587a-9733-442f-9ead-744eb148759d)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/49ee27d0-c3b6-4066-b3c8-fd4cdc495c36)
+   - adaugare review
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/58e5a487-2da4-4887-aee6-271c26fa1c93)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/53175ed1-a899-45cf-b2b4-eb262a3b9873)
+     ![image](https://github.com/linterobert/JavaBiddingApp/assets/80642370/243e8cdb-78a0-461d-8cf4-58b9ce429709)
+
+
+
+
+
+
+
 
 
 
